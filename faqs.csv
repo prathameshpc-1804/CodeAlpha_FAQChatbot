@@ -1,0 +1,261 @@
+question,answer
+What is Python?,"Python is a high-level, general-purpose programming language known for its readable syntax and versatility."
+Who created Python?,Python was created by Guido van Rossum and was first released in 1991.
+What is a variable in Python?,A variable is a name used to store or reference a value in a program.
+What are Python data types?,"Common Python data types include integers, floats, strings, booleans, lists, tuples, sets, and dictionaries."
+What is a list in Python?,"A list is an ordered, mutable collection that can contain elements of different data types."
+What is a tuple in Python?,A tuple is an ordered collection that cannot be modified after it is created.
+What is a dictionary in Python?,A dictionary stores data as key-value pairs.
+What is a function in Python?,A function is a reusable block of code that performs a specific task.
+How do I define a function in Python?,"Use the def keyword followed by the function name, parentheses, and a colon."
+What is a loop in Python?,A loop repeatedly executes a block of code while iterating over a sequence or satisfying a condition.
+What is the difference between for and while loops?,"A for loop iterates over a sequence or iterable, while a while loop repeats as long as its condition is true."
+What is an if statement?,An if statement executes a block of code when a specified condition is true.
+What is object-oriented programming?,Object-oriented programming is a programming approach based on objects that combine data and behavior.
+What is a class in Python?,A class is a blueprint for creating objects with attributes and methods.
+What is an object in Python?,An object is an instance of a class.
+What is inheritance in Python?,Inheritance allows a class to derive attributes and methods from another class.
+What is a module in Python?,"A module is a Python file containing reusable code, such as functions, classes, and variables."
+What is a Python package?,A package organizes related Python modules into a directory structure.
+What is exception handling?,"Exception handling manages runtime errors using constructs such as try, except, else, and finally."
+What is the purpose of the print function?,The print function displays output on the screen.
+What is the input function?,The input function reads text entered by the user.
+What is a string in Python?,A string is a sequence of characters used to represent text.
+What is a Boolean in Python?,A Boolean is a data type with two possible values: True and False.
+What is a Python library?,A Python library is a collection of reusable code that helps developers perform specific tasks.
+What is pip in Python?,Pip is a tool used to install and manage Python packages.
+What is a virtual environment?,A virtual environment isolates a project's Python packages from those of other projects.
+What is machine learning?,Machine learning is a field of artificial intelligence in which systems learn patterns from data to make predictions or decisions.
+What is artificial intelligence?,Artificial intelligence is the field of developing systems that perform tasks associated with human intelligence.
+What is a Python interpreter?,A Python interpreter executes Python code.
+What is the difference between a list and a tuple?,"Lists are mutable, while tuples are immutable."
+How can I install a Python package?,You can install a package using a command such as pip install package_name in your terminal.
+What is a lambda function?,A lambda function is a small anonymous function defined using the lambda keyword.
+What is a set in Python?,A set is an unordered collection of unique elements.
+What is recursion?,Recursion occurs when a function calls itself to solve a problem.
+What is the difference between == and = in Python?,"The equals sign assigns a value, while the double equals sign compares two values for equality."
+What is an API?,An API is an interface that allows different software systems to communicate with one another.
+What is a syntax error?,A syntax error occurs when code violates the grammatical rules of the programming language.
+What is debugging?,Debugging is the process of finding and fixing errors in a program.
+What is a comment in Python?,A comment is text written for human readers that Python does not execute as code.
+What is the difference between append and extend in Python?,"Append adds one item to a list, while extend adds elements from an iterable."
+What is an IDE?,"An IDE is an Integrated Development Environment that provides tools for writing, running, and debugging code."
+What is the difference between Python and Java?,"Python generally uses simpler, more concise syntax, while Java uses a more explicit class-based structure and static type checking."
+What is indentation in Python?,"Indentation defines code blocks in Python and is essential for statements such as functions, loops, and conditional statements."
+What does the range function do?,"The range function generates a sequence of integers, commonly used in for loops."
+What is a nested loop?,A nested loop is a loop placed inside another loop.
+What is list comprehension?,"List comprehension is a concise way to create a list using an expression and an iterable, optionally with a condition."
+What is slicing in Python?,"Slicing extracts a portion of a sequence using start, stop, and optional step values."
+What does the len function do?,"The len function returns the number of items in an object, such as a string, list, or tuple."
+What is type conversion?,"Type conversion changes a value from one data type to another, such as converting an integer to a string."
+What is type casting in Python?,"Type casting explicitly converts a value into another data type using functions such as int, float, and str."
+What is the difference between mutable and immutable objects?,"Mutable objects can be changed after creation, while immutable objects cannot be changed after creation."
+What is a global variable?,"A global variable is defined outside a function and can be accessed from different parts of a module, subject to scope rules."
+What is a local variable?,A local variable is defined within a function and is generally accessible only within that function.
+What is the pass statement?,The pass statement is a placeholder that performs no operation when executed.
+What is the break statement?,The break statement immediately terminates the nearest enclosing loop.
+What is the continue statement?,The continue statement skips the remaining statements in the current loop iteration and proceeds to the next iteration.
+What is a decorator in Python?,A decorator is a callable that modifies or extends the behavior of another function or class.
+What is a generator in Python?,"A generator produces values one at a time, typically using yield, instead of creating the entire sequence at once."
+What is the yield keyword?,The yield keyword produces a value from a generator and suspends its execution until the generator resumes.
+What is a Python iterator?,An iterator is an object that provides values one at a time through the iterator protocol.
+What is the init method?,The init method initializes a newly created object and is commonly used to set its initial attributes.
+What does self mean in Python?,"In an instance method, self conventionally refers to the current object."
+What is method overriding?,Method overriding occurs when a subclass provides its own implementation of a method inherited from a parent class.
+What is polymorphism in Python?,"Polymorphism allows different object types to be used through a common interface, with behavior depending on the object."
+What is encapsulation in object-oriented programming?,Encapsulation groups data and related methods together and helps control how an object's internal state is accessed.
+What is multiple inheritance?,Multiple inheritance allows a class to inherit from more than one parent class.
+What is file handling in Python?,"File handling involves opening, reading, writing, and closing files using Python's file operations."
+How do I open a file in Python?,"Use the open function, preferably with a with statement, to open a file and manage its closure automatically."
+What is the difference between read and write modes?,"Read mode is used to retrieve file contents, while write mode writes data and generally truncates an existing file."
+What is JSON in Python?,"JSON is a text format for structured data, and Python's json module can encode and decode JSON data."
+What is regular expression in Python?,"A regular expression is a pattern used to search, match, or manipulate text, supported by Python's re module."
+What is a Python virtual environment used for?,A virtual environment isolates project dependencies so different projects can use different package versions.
+What is the difference between a library and a framework?,"A library provides reusable functionality that your code calls, while a framework typically defines a structure and calls your code at designated points."
+What is NumPy?,NumPy is a Python library that provides efficient multidimensional arrays and numerical computing operations.
+What is Pandas?,Pandas is a Python library used to manipulate and analyze structured data through objects such as DataFrames and Series.
+What is Matplotlib?,"Matplotlib is a Python library used to create charts, graphs, and other visualizations."
+What is Flask?,Flask is a lightweight Python web framework used to build web applications and APIs.
+What is Django?,Django is a high-level Python web framework that provides built-in tools for developing web applications.
+What is unit testing?,Unit testing checks individual components of a program to verify that they behave as expected.
+What is the main function in Python?,"Python does not require a main function, but developers commonly define main() and call it inside an if name == 'main' guard."
+What are the main features of Python?,"Python offers readable syntax, dynamic typing, automatic memory management, extensive libraries, portability, and support for multiple programming paradigms."
+Is Python compiled or interpreted?,"Python is commonly described as an interpreted language. In the standard implementation, source code is compiled into bytecode and then executed by the Python virtual machine."
+What is the latest version of Python?,Python evolves through regular releases. Check the official Python website for the latest stable version.
+What is indentation in Python?,Indentation is the whitespace at the beginning of a line that defines code blocks in Python.
+Why is indentation important in Python?,"Indentation determines the structure of code blocks such as functions, loops, conditional statements, and classes."
+What is a comment in Python?,A comment is explanatory text ignored by Python during normal program execution. A single-line comment begins with the hash symbol.
+How do you write a comment in Python?,Use the hash symbol before the comment. For example: # This is a comment.
+What is a multiline comment in Python?,Python has no dedicated multiline comment syntax. You can use multiple hash-prefixed lines; triple-quoted strings are primarily used for strings and docstrings.
+What is a keyword in Python?,"A keyword is a reserved word with a special meaning in Python, such as if, else, for, while, and return."
+How can you list Python keywords?,Import the keyword module and use keyword.kwlist to obtain the reserved keywords for your Python version.
+What is an identifier in Python?,"An identifier is a name used for a variable, function, class, or another program element."
+What are the rules for naming variables in Python?,"Names can contain letters, digits, and underscores, cannot start with a digit, are case-sensitive, and cannot be reserved keywords."
+Is Python case-sensitive?,"Yes. For example, name and Name are two different identifiers."
+What is a statement in Python?,"A statement is an instruction that Python can execute, such as an assignment, function call, or conditional statement."
+What is an expression in Python?,"An expression is a combination of values, variables, and operators that evaluates to a result."
+What does the pass statement do?,The pass statement performs no action and can be used as a placeholder where Python syntax requires a statement.
+What does the del statement do?,The del statement removes a reference to a variable or deletes an item or slice from a mutable collection.
+What is None in Python?,None is a special object representing the absence of a value or a missing result.
+What does the type function do?,"The type function returns the type of an object. For example, type(10) returns int."
+What does the id function do?,The id function returns an integer identifying an object during its lifetime in a Python implementation.
+What are the built-in data types in Python?,"Common built-in types include int, float, complex, bool, str, list, tuple, range, dict, set, frozenset, bytes, bytearray, and NoneType."
+What is an integer in Python?,"An integer is a whole number represented by the int type, such as 10, 0, or -25."
+What is a float in Python?,"A float represents a floating-point number, such as 3.14 or -2.5."
+What is a complex number in Python?,"A complex number contains real and imaginary components, such as 2+3j."
+What is a Boolean data type?,The bool type represents True or False values.
+What is a string in Python?,A string is an immutable sequence of Unicode characters represented by the str type.
+How do you convert a string to an integer?,"Use the int function, such as int('25'). The string must represent a valid integer."
+How do you convert an integer to a string?,"Use the str function, such as str(25), which returns the string '25'."
+How do you convert a value to a float?,"Use the float function, such as float('3.14'), to convert a compatible value into a floating-point number."
+What is type casting in Python?,"Type casting is the process of converting a value from one data type to another using functions such as int, float, and str."
+What is implicit type conversion?,Implicit type conversion occurs when Python automatically converts a value to another compatible type during an operation.
+What is explicit type conversion?,"Explicit type conversion occurs when the programmer deliberately converts a value using functions such as int, float, or str."
+What is a mutable data type?,"A mutable data type allows its contents to change after the object is created. Lists, dictionaries, and sets are examples."
+What is an immutable data type?,"An immutable object cannot be changed after creation. Integers, strings, and tuples are examples, although a tuple may contain mutable objects."
+What is dynamic typing in Python?,Dynamic typing means that variable names can refer to objects of different types at different times without declaring a fixed variable type.
+What is duck typing in Python?,Duck typing focuses on the operations an object supports rather than requiring it to belong to a particular class.
+What is truthy and falsy in Python?,"Truthy values evaluate to True in Boolean contexts, while falsy values include False, None, numeric zero, and empty collections."
+What is the difference between is and ==?,"The == operator compares values for equality, while is checks whether two references point to the same object."
+What is the isinstance function?,isinstance checks whether an object is an instance of a specified class or one of its subclasses.
+What is type inference in Python?,"Python determines an object's type at runtime from the value assigned to it, so ordinary variable declarations do not require explicit type annotations."
+What is the purpose of Python?,"Python is used for web development, automation, data analysis, artificial intelligence, machine learning, scientific computing, and software development."
+What is Python syntax?,Python syntax is the set of rules that defines how Python programs must be written.
+What is a Python interpreter?,A Python interpreter executes Python code and reports errors encountered during execution.
+What is bytecode in Python?,Bytecode is an intermediate representation of Python code that is executed by the Python virtual machine.
+What is PEP 8?,PEP 8 is the official style guide for writing readable and consistent Python code.
+What is a variable in Python?,A variable is a name that refers to an object or value in a program.
+How do you assign a value to a variable?,"Use the assignment operator, such as age = 20, to assign a value to a variable."
+Can a Python variable change its type?,Yes. A variable name can refer to objects of different types at different times.
+What is multiple assignment in Python?,"Multiple assignment allows several variables to receive values in one statement, such as x, y = 10, 20."
+What is variable unpacking?,Variable unpacking assigns elements of an iterable to multiple variables in a single assignment.
+What is the print function?,"The print function displays objects as text in the output stream, usually the terminal."
+What is the input function?,The input function reads a line of text from the user and returns it as a string.
+What does len do in Python?,"The len function returns the number of items in an object, such as a string, list, tuple, or dictionary."
+What does the range function do?,The range function represents a sequence of integers commonly used in loops.
+What is the difference between a statement and an expression?,"An expression evaluates to a value, while a statement performs an action such as assignment or controlling program flow."
+What is a Python keyword?,"A keyword is a reserved word with a special meaning in Python, such as if, else, class, and return."
+What is an identifier?,"An identifier is a name used for a variable, function, class, module, or another program element."
+What is case sensitivity in Python?,"Python is case-sensitive, so identifiers such as name and Name are treated as different names."
+What is None in Python?,None is a special object used to represent the absence of a value.
+What is the pass statement?,The pass statement performs no action and is useful as a placeholder where a statement is required.
+What is an iterator?,An iterator is an object that returns items one at a time through the iterator protocol.
+What is an iterable?,An iterable is an object that can return an iterator and can therefore be used in a for loop.
+What is the difference between an iterable and an iterator?,"An iterable can produce an iterator, while an iterator maintains iteration state and supplies items one at a time."
+What is lazy evaluation?,Lazy evaluation delays computing a value until it is needed.
+What is a context manager?,A context manager defines setup and cleanup behavior for use with the with statement.
+What is multithreading?,Multithreading runs multiple threads within one process and is often useful for I/O-bound tasks.
+What is multiprocessing?,Multiprocessing uses separate processes to execute work concurrently and can help with CPU-bound tasks.
+What is asynchronous programming?,"Asynchronous programming allows tasks to yield control while waiting, commonly using async, await, and asyncio."
+What is the Global Interpreter Lock?,"In standard GIL-enabled CPython builds, the Global Interpreter Lock generally allows only one thread at a time to execute Python bytecode within a process."
+What is garbage collection?,Garbage collection reclaims memory occupied by objects that are no longer needed.
+What is a shallow copy?,A shallow copy creates a new outer object but retains references to nested objects.
+What is a deep copy?,"A deep copy recursively copies nested objects where possible, creating more independent copies of a structure."
+What is a type hint?,"A type hint annotates the expected types of variables, parameters, or return values to improve readability and support static analysis."
+What is a dataclass?,A dataclass uses the dataclasses module to generate common methods for classes that primarily store data.
+What is a regular expression?,"A regular expression is a pattern used to search, match, or manipulate text."
+What is debugging?,"Debugging is the process of identifying, investigating, and correcting errors in a program."
+What is unit testing?,Unit testing checks individual functions or components to verify that they behave as expected.
+What is the unittest module?,unittest is a Python standard-library framework for writing and running automated tests.
+What is logging in Python?,The logging module records diagnostic messages that help developers understand application behavior and investigate errors.
+What is an API?,An application programming interface defines how software components communicate and exchange data or functionality.
+What is a Python module?,"A module is a Python file containing code such as functions, classes, and variables that can be imported."
+What is a Python package?,A package organizes related Python modules under a common namespace.
+What is the import statement?,The import statement makes functionality from modules or packages available to a program.
+What is pip?,pip is a commonly used tool for installing and managing Python packages.
+What is PyPI?,The Python Package Index is a repository for Python packages.
+What is a virtual environment?,A virtual environment provides an isolated Python environment for a project's dependencies.
+What is requirements.txt?,requirements.txt commonly lists the Python packages required to run a project.
+What is the Python standard library?,"The Python standard library contains modules distributed with Python for tasks such as file operations, dates, mathematics, and networking."
+What is NumPy?,NumPy is a library for multidimensional arrays and efficient numerical operations.
+What is Pandas?,Pandas is a library for data analysis and manipulation using structures such as DataFrames and Series.
+What is a DataFrame?,A DataFrame is a two-dimensional labeled data structure with rows and columns.
+What is Matplotlib?,"Matplotlib is a Python library for creating charts, graphs, and visualizations."
+What is Scikit-learn?,"Scikit-learn provides tools for machine learning, including preprocessing, model training, and evaluation."
+What is TensorFlow?,TensorFlow is a machine learning framework used to build and train machine learning models.
+What is PyTorch?,PyTorch is a machine learning framework that provides tensor operations and automatic differentiation.
+What is Flask?,Flask is a lightweight Python web framework used to build web applications and APIs.
+What is Django?,Django is a Python web framework that provides tools for building web applications.
+What is Streamlit?,"Streamlit is a Python framework for creating interactive web applications, particularly for data science and machine learning."
+What is NLTK?,NLTK is a Python library that provides tools and resources for natural language processing.
+What is spaCy?,spaCy is a natural language processing library designed for efficient text processing and linguistic analysis.
+What is an exception in Python?,An exception represents an error or unusual condition that interrupts normal program flow.
+What is exception handling?,Exception handling uses constructs such as try and except to respond to runtime errors.
+What is a try-except block?,A try-except block executes code and catches specified exceptions that occur within the try block.
+What is the finally block?,"The finally block executes when control leaves the associated try statement, making it useful for cleanup."
+What is the else block in exception handling?,The else block executes when the try block completes without raising an exception.
+What is the raise statement?,The raise statement explicitly raises an exception.
+How do you create a custom exception?,Define a class that inherits from Exception or an appropriate exception subclass.
+What is a ZeroDivisionError?,ZeroDivisionError is raised when a division operation attempts to divide by zero.
+What is a TypeError?,TypeError is raised when an operation or function receives an object of an inappropriate type.
+What is a ValueError?,ValueError is raised when an argument has an appropriate general type but an invalid value.
+What is a file object?,"A file object provides methods for reading, writing, and managing an opened file."
+How do you open a file?,"Use open(filename, mode) to open a file and obtain a file object."
+What is the with statement in file handling?,The with statement manages resources and helps ensure that a file is closed when its block exits.
+What is the difference between read and readline?,"read can return the entire file or a specified number of characters, while readline reads one line."
+What is the difference between write and append modes?,"Write mode generally truncates an existing file, while append mode writes new content at the end."
+What is a CSV file?,"A CSV file stores tabular data in records with fields separated by a delimiter, commonly a comma."
+How do you read a CSV file in Python?,Use Python's csv module or Pandas to read records from a CSV file.
+What is JSON?,"JSON is a text-based data format for representing structured values such as objects, arrays, strings, numbers, Booleans, and null."
+How do you work with JSON in Python?,"Use the built-in json module, including json.load, json.dump, json.loads, and json.dumps."
+What is a traceback?,A traceback shows the sequence of function calls leading to an exception and includes information about the error.
+What is object-oriented programming?,Object-oriented programming organizes software around objects that combine data and behavior.
+What is a class in Python?,A class defines the attributes and methods that its instances can have.
+What is an object in Python?,An object is an instance of a class with data and behavior.
+What is the __init__ method?,The __init__ method initializes an instance after it has been created.
+What is self in Python?,self is the conventional first parameter of an instance method and refers to the instance receiving the method call.
+What is inheritance?,Inheritance allows a class to derive attributes and methods from another class.
+What is multiple inheritance?,Multiple inheritance allows a class to inherit from more than one base class.
+What is polymorphism?,Polymorphism allows different types of objects to provide compatible operations through a common interface.
+What is encapsulation?,Encapsulation groups data and behavior together and uses conventions or mechanisms to manage access to implementation details.
+What is abstraction?,Abstraction exposes essential behavior while hiding unnecessary implementation details.
+What is method overriding?,Method overriding occurs when a subclass provides its own implementation of a method defined by a base class.
+What is a class variable?,A class variable is defined on a class and is shared by instances unless an instance shadows it.
+What is an instance variable?,An instance variable stores data associated with a particular object.
+What is a static method?,A static method is defined with @staticmethod and receives no automatic instance or class argument.
+What is a class method?,A class method is defined with @classmethod and receives the class as its first argument.
+What is super in Python?,The super function provides access to methods in the next class in the method resolution order.
+What is method resolution order?,Method resolution order determines the order in which Python searches classes for attributes and methods.
+What is operator overloading?,Operator overloading allows classes to define how operators behave for their objects using special methods.
+What is a property in Python?,A property allows a method to be accessed like an attribute and can support controlled reading and assignment.
+What is the difference between a class and an object?,"A class defines a type and its behavior, while an object is a particular instance of that class."
+What is a function in Python?,A function is a reusable block of code designed to perform a specific task.
+How do you define a function?,"Use the def keyword followed by the function name, parentheses, a colon, and an indented function body."
+What is the return statement?,The return statement ends a function call and sends a value back to the caller.
+What is the difference between a parameter and an argument?,"A parameter appears in a function definition, while an argument is a value supplied when the function is called."
+What is a default parameter?,A default parameter has a predefined value used when the caller does not supply a corresponding argument.
+What are keyword arguments?,Keyword arguments pass values to parameters by specifying their names.
+What are positional arguments?,Positional arguments are matched to function parameters according to their position in the function call.
+What is *args in Python?,The *args syntax collects additional positional arguments into a tuple.
+What is **kwargs in Python?,The **kwargs syntax collects additional keyword arguments into a dictionary.
+What is a lambda function?,A lambda function is an anonymous function consisting of a single expression.
+What is recursion?,Recursion occurs when a function calls itself directly or indirectly to solve a problem.
+What is a base case in recursion?,A base case is the condition that stops recursive calls from continuing indefinitely.
+What is a decorator?,A decorator wraps a function or class to extend or modify its behavior without directly changing its original implementation.
+What is a closure?,A closure is a function that retains access to variables from its enclosing scope.
+What is a generator function?,A generator function uses yield to produce values lazily as an iterator.
+What is the map function?,The map function applies a function to each item of an iterable and returns an iterator.
+What is the filter function?,The filter function returns an iterator containing items that satisfy a specified condition.
+What is a docstring?,"A docstring is a string literal used to document a module, class, or function."
+What is a higher-order function?,"A higher-order function accepts functions as arguments, returns a function, or both."
+What is the difference between print and return?,"print displays information, while return passes a result back to the code that called the function."
+What is a list in Python?,"A list is an ordered, mutable collection that can contain duplicate values and elements of different types."
+How do you add an element to a list?,Use append to add one element to the end of a list or extend to add elements from an iterable.
+What is the difference between append and extend?,"append adds its argument as one item, while extend adds the individual items from an iterable."
+How do you remove an item from a list?,"Use remove to delete the first matching value, pop to remove and return an item, or del to delete an item or slice."
+What is list comprehension?,"List comprehension is a concise syntax for creating lists from iterables, optionally applying conditions."
+How do you reverse a list?,Use list.reverse() to reverse a list in place or list(reversed(values)) to create a reversed list.
+What is the difference between sort and sorted?,"sort changes a list in place, while sorted returns a new sorted list from an iterable."
+What is a nested list?,A nested list is a list containing other lists as elements.
+What is a tuple in Python?,"A tuple is an ordered, immutable sequence that can contain duplicate values."
+How do you create a single-element tuple?,"Include a trailing comma, such as item = (5,)."
+Can a tuple contain a list?,"Yes. A tuple can contain a list, but the list itself can still be modified even though the tuple's references cannot be reassigned."
+What is a dictionary in Python?,A dictionary is a mapping that associates unique hashable keys with values.
+How do you add a key-value pair to a dictionary?,"Assign a value to a key, such as student['age'] = 21."
+What does the get method do in a dictionary?,The get method returns the value for a key or a specified default if the key is absent.
+How do you iterate through a dictionary?,Use a for loop with items() to access each key-value pair.
+What is dictionary comprehension?,Dictionary comprehension creates a dictionary from an iterable using an expression and optional condition.
+What is a set in Python?,A set is an unordered collection of unique hashable elements.
+How do you remove duplicates from a list?,"Converting a list to a set removes duplicate values, but it does not generally preserve the original order."
+What is the difference between union and intersection?,"Union combines the elements of sets, while intersection returns only elements shared by the sets."
+What is a frozenset?,A frozenset is an immutable set that can be used as a dictionary key if its elements are hashable.
